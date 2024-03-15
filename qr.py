@@ -5,6 +5,9 @@ import segno
 # qrcode.save("GPT.png")
 # apex.save("apex.png")
 
+
+# pwede nana nihao?
+
 print("Link to QR Code Generator");
 
 link =  input("Put your link here: ");
